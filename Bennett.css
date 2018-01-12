@@ -71,7 +71,6 @@ h2.contents {
 h4.contents {
     font-size: 100%;
     font-weight: normal;
-    display: none; /*individual toc items are hidden by default until expanded*/ 
 }
 
 .contents {
@@ -117,9 +116,6 @@ h2.contents-open:before {
     margin-left: inherit;
 }
 
-div.contents {
-    display: none; /*individual toc items are hidden by default until expanded*/
-}
  
 .highlighted {
     font-weight: bold;
