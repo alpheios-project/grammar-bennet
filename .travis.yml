@@ -15,5 +15,5 @@ deploy:
   acl: public_read
   cache_control: max-age=15552000
   on:
-    repo: alpheios-project/bennett
+    repo: alpheios-project/grammar-bennett
     branch: master
